@@ -1,6 +1,6 @@
 # Real-time collaboration shopping list app
 
-An exampledemo app to enable real-time collaboration around a shopping list:
+An demo app to enable real-time collaboration around a shopping list:
 
 - See who is editing a field
 - See edits as they happen
